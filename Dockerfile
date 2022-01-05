@@ -1,4 +1,4 @@
-FROM neatous/phpbase:8.0
+FROM neatous/phpbase:8.1
 MAINTAINER Martin Venuš <martin.venus@neatous.cz>
 
 RUN docker-php-ext-install pcntl
